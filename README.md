@@ -1,5 +1,5 @@
 # Covid-19 Prediction of NewCases and TestKits Requirements using SARIMA
-This repository contains source code for Time series prediction of COVID19 data by [Saira](https://github.com/Sai2000-20)]
+This repository contains source code for Time series prediction of COVID19 data by [Saira](https://github.com/Sai2000-20)
 
 ## Steps for Data Cleaning 
 Find the whole [Flow chart](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/FlowChart/Data_Preparation-Flowchart.html) and [Psudo Code](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/PseudoCode/PseudoCode_PreProcessing.pdf) for data claaning 
@@ -11,3 +11,11 @@ Find the whole [Flow chart](https://github.com/Sai2000-20/Covid_Cases_TestKits_T
 ## Objective 2
 ### Considering current trend of COVID-19 tests in Malaysia, I want to determine the number of COVID-19 test kits that would be required each week in Malaysia, over next 3 months
 Find the whole [Flow chart](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/FlowChart/Objective_2-Test_Kits_Prediction-Flowchart.html) and [Psudo Code](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/PseudoCode/PseudoCode_Objective2.pdf) for Objective 2 
+
+# Steps
+
+## Pre Processing
+
+### Before Pre-Processing & After Pre-Processing
+![1](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/UnProcessed%20Data%20Malaysia.png) 
+![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/Processed%20Data%20Malaysia.png) 
