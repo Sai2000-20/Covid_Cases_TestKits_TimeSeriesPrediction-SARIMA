@@ -1,2 +1,2 @@
-# Covid_NewCases_TestKits_Prediction-using SARIMA
-WQD7006-Machine Learning
+# Covid-19 Predicting NewCases and TestKits Requirements using SARIMA
+Machine Learning Project
