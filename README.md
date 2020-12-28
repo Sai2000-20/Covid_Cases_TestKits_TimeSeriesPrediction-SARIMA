@@ -23,12 +23,26 @@ Find the whole [Flow chart](https://github.com/Sai2000-20/Covid_Cases_TestKits_T
 ## Daily New-Cases
 
 ### Data Visulization of current data
-![1](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_Initial.png) 
-![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_Decomposition.png) 
-![3](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_AutoCorelation.png) 
-![4](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_PartialAutoCorelation.png) 
+Current Data ![1](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_Initial.png) 
+Decomposition ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_Decomposition.png) 
+Corelation ![3](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_AutoCorelation.png) 
+Partial Corelation ![4](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_PartialAutoCorelation.png) 
 ### Data Visulization of Model and Prdicted data
-![2]() 
-![2]() 
-![2]() 
-![2]() 
+Test Train Model ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_TestTrain.png) 
+Model ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_Model.jpg) 
+Result Analysis![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_result_diognostics.png) 
+Predicted Values ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_FuturePredict.png) 
+
+## Daily New-Tests
+
+### Data Visulization of current data
+Current Data ![1](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_Initial.png) 
+Decomposition ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_Decomposition.png) 
+Corelation ![3](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_AutoCorelation.png) 
+Partial Corelation ![4](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_PartialAutoCorelation.png) 
+### Data Visulization of Model and Prdicted data
+Test Train Model ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_TestTrain.png) 
+Model ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_Model.jpg) 
+Result Analysis![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_result_diognostics.png) 
+Predicted Values ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Tests_FuturePredict.png) 
+
