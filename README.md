@@ -19,3 +19,16 @@ Find the whole [Flow chart](https://github.com/Sai2000-20/Covid_Cases_TestKits_T
 ### Before Pre-Processing & After Pre-Processing
 ![1](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/UnProcessed%20Data%20Malaysia.png) 
 ![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/Processed%20Data%20Malaysia.png) 
+
+## Daily New-Cases
+
+### Data Visulization of current data
+![1](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_Initial.png) 
+![2](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_Decomposition.png) 
+![3](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_AutoCorelation.png) 
+![4](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/images/New-Cases_PartialAutoCorelation.png) 
+### Data Visulization of Model and Prdicted data
+![2]() 
+![2]() 
+![2]() 
+![2]() 
