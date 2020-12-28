@@ -1,2 +1,2 @@
-# Covid-19 Predicting NewCases and TestKits Requirements using SARIMA
+# Covid-19 Prediction of NewCases and TestKits Requirements using SARIMA
 Machine Learning Project
