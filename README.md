@@ -1,5 +1,5 @@
 # Covid-19 Prediction of NewCases and TestKits Requirements using SARIMA
-This repository contains source code for Time series prediction of COVID19 data by [Saira](https://github.com/Sai2000-20)
+This repository contains source code for Time series prediction of COVID19 data.
 
 ## Steps for Data Cleaning 
 Find the whole [Flow chart](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/FlowChart/Data_Preparation-Flowchart.html) and [Psudo Code](https://github.com/Sai2000-20/Covid_Cases_TestKits_TimeSeriesPrediction-SARIMA/blob/main/PseudoCode/PseudoCode_PreProcessing.pdf) for data claaning 
